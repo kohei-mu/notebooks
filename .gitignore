@@ -1,2 +1,3 @@
 *-checkpoint.ipynb
 old/
+.vector_cache/
